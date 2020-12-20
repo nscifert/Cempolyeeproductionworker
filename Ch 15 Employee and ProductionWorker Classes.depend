@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\nscif\documents\computer science 1\ch 15 employee and productionwroker classes\main.cpp
+	<iostream>
+
+1575747714 source:c:\users\nscif\documents\computer science 1\ch 15 employee and productionwroker classes\empolyee.cpp
+	"Empolyee.h"
+	<string>
+
+1575747988 c:\users\nscif\documents\computer science 1\ch 15 employee and productionwroker classes\empolyee.h
+	<string>
+
+1575751464 source:c:\users\nscif\documents\computer science 1\ch 15 employee and productionwroker classes\productionworker.cpp
+	"ProductionWorker.h"
+	<string>
+	"Empolyee.h"
+
+1575751465 c:\users\nscif\documents\computer science 1\ch 15 employee and productionwroker classes\productionworker.h
+	"Empolyee.h"
+	<string>
+
